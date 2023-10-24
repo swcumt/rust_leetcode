@@ -1,6 +1,7 @@
 pub mod subject1;
+pub mod subject2;
 
-use subject1::two_sum::Solution;
+use crate::subject1::solution::Solution;
 
 fn main() {
     println!("Hello, world!");
