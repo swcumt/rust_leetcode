@@ -1,5 +1,6 @@
 pub mod subject1;
 pub mod subject2;
+pub mod subject3;
 
 use crate::subject1::solution::Solution;
 
